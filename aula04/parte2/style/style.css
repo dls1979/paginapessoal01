@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+
+
+}
+.gato img{
+    width: 40%;
+    border-radius: 45px;border: 2px solid white; 
+
+
+}
+
+
+.titulo{  
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    color: white;
+
+}
+
+
+.cabeca{
+    display: flex;
+    text-align:center;
+    
+}
+
+hr{
+    background-color: #c3b8cc;
+    height: 5px;
+    width: 100%;
+    margin: auto;
+
+
+
+}
